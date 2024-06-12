@@ -2,7 +2,7 @@
 {
     enum TipoVeiculo
 	{
-		Moto,
-		Carro
+		Moto = 1,
+		Carro = 2
 	}
 }

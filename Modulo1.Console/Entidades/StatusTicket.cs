@@ -2,8 +2,8 @@
 {
     public enum StatusTicket
 	{ 
-		Aberto,
-		Pago,
-		Cancelado
+		Aberto = 0,
+		Pago = 1,
+		Cancelado = 2
 	}
 }
